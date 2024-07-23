@@ -15,6 +15,10 @@ The course culminates in a capstone project, where students apply all the skills
 
 [Introducing Llama 3.1: Our most capable models to date](https://ai.meta.com/blog/meta-llama-3-1/)
 
+[Step-By-Step Tutorial: How to Fine-tune Llama 3 (8B) with Unsloth + Google Colab & deploy it to Ollama](https://www.reddit.com/r/LocalLLaMA/comments/1e416fo/stepbystep_tutorial_how_to_finetune_llama_3_8b/)
+
+[Working with Llama 3](https://www.datacamp.com/courses/working-with-llama-3)
+
 [Insanely Fast LLAMA-3 on Groq Playground and API for FREE](https://www.youtube.com/watch?v=ySwJT3Z1MFI)
 
 [Introducing Llama-3-Groq-Tool-Use Models](https://wow.groq.com/introducing-llama-3-groq-tool-use-models/)
