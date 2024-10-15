@@ -2,7 +2,7 @@
 
 This repo is part of the [Certified Cloud Native Applied Generative AI Engineer](https://docs.google.com/document/d/15usu1hkrrRLRjcq_3nCTT-0ljEcgiC44iSdvdqrCprk/edit?usp=sharing) program. It covers the fifth quarter of the course work:
 
-## Quarter 5: Fine-Tuning Open-Source Large Language Models
+## Quarter 6: Fine-Tuning Open-Source Large Language Models
 
 This comprehensive course is designed to guide learners through the process of fine-tuning open-source Large Language Models (LLMs) such as Meta LLaMA 3.1 using PyTorch, with a particular emphasis on cloud-native training and deployment. The course covers everything from the fundamentals to advanced concepts, ensuring students acquire both theoretical knowledge and practical skills.
 The journey begins with an introduction to LLMs, focusing on their architecture, capabilities, and the specific features of Meta LLaMA 3.1. Students will also set up their development environment, including tools like Anaconda, Jupyter Notebooks, and PyTorch, to prepare for hands-on learning.
